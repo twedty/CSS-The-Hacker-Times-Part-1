@@ -43,3 +43,19 @@ ul{
     color:#777;
     text-decoration: none;
 }
+.more-articles{
+    border-top: 1px solid #777;
+}
+.articles{
+    display:inline-block;
+    width:300px;
+    text-align: justify;
+    justify-content: center;
+    margin-right:auto;
+    margin-left:33px;
+}
+.articles p{
+    width:275px;
+    margin-left:auto;
+    margin-right:auto;
+}
